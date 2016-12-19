@@ -1,0 +1,52 @@
+{
+  "name": "transit",
+  "version": "1.0.0",
+  "description": "Amazon Alexa API Mashup Contest Transit Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadranyi/mashup.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Amazon",
+    "API",
+    "Mashup",
+    "Transit",
+    "Bus",
+    "Train"
+  ],
+  "author": "Samuel S. K. Adranyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadranyi/mashup/issues"
+  },
+  "homepage": "https://github.com/sadranyi/mashup#readme",
+  "dependencies": {
+    "@google/maps": "^0.3.0",
+    "alexa-sdk": "^1.0.6",
+    "array-to-sentence": "^1.1.0",
+    "asyncawait": "^1.0.6",
+    "bluebird": "^3.4.6",
+    "chance": "^1.0.4",
+    "dynamite": "^0.8.1",
+    "faker": "^3.1.0",
+    "geodist": "^0.2.1",
+    "grammarray": "^1.0.2",
+    "i18next": "^4.1.1",
+    "i18next-sprintf-postprocessor": "^0.2.2",
+    "json-query": "^2.2.0",
+    "jsonminify": "^0.4.1",
+    "lodash": "^4.17.2",
+    "moment": "^2.16.0",
+    "moment-timezone": "^0.5.9",
+    "pluralize": "^3.0.0",
+    "random-words": "0.0.1",
+    "tensify": "0.0.2",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.17"
+  }
+}

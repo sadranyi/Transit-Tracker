@@ -1,0 +1,59 @@
+BART_STATION
+------------
+12th street Oakland City Center
+16th street Mission (san francisco)
+19th street Oakland
+24th street Mission (san francisco)
+Ashby (Berkeley)
+Balboa Park (san francisco)
+Bay Fair (San Leandro)
+Castro Valley
+Civic Center / UN Plaza
+Coliseum
+Colma
+Concord
+Daly City
+Downtown Berkeley
+Dublin / Pleasanton
+El Cerrito del Norte
+El Cerrito Plaza
+Embarcadero (san francisco)
+Fremont
+Fruitvale (Oakland)
+Glen Park (san francisco)
+Hayward
+Lafayette
+Lake Merritt (Oakland)
+MacArthur (Oakland)
+Millbrae
+Montgomery street (san francisco)
+North Berkeley
+North Concord / Martinez
+Oakland Int'l Airport
+Orinda
+Pittsburg / Bay Point
+Pleasant Hill / Contra Costa Centre
+Powell street (san francisco)
+Richmond
+Rockridge (Oakland)
+San Bruno
+San Francisco Int'l Airport
+San Leandro
+South Hayward
+South San Francisco
+Union City
+Walnut Creek
+West Dublin / Pleasanton
+West Oakland
+
+CTA_LINES
+---------
+Red
+Blue
+Brown
+Green
+Orange
+Purple
+Purple Express
+Pink
+Yellow

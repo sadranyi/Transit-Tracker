@@ -1,0 +1,1083 @@
+ZipCodeSetupIntent configure my device with {zipcode}
+ZipCodeSetupIntent configure my echo dot with {zipcode}
+ZipCodeSetupIntent configure my echo with {zipcode}
+ZipCodeSetupIntent configure my tap with {zipcode}
+ZipCodeSetupIntent initialize my device with {zipcode}
+ZipCodeSetupIntent initialize my echo dot with {zipcode}
+ZipCodeSetupIntent initialize my echo with {zipcode}
+ZipCodeSetupIntent initialize my tap with {zipcode}
+ZipCodeSetupIntent prepare my device with {zipcode}
+ZipCodeSetupIntent prepare my echo dot with {zipcode}
+ZipCodeSetupIntent prepare my echo with {zipcode}
+ZipCodeSetupIntent prepare my tap with {zipcode}
+ZipCodeSetupIntent set my device with {zipcode}
+ZipCodeSetupIntent set my echo dot with {zipcode}
+ZipCodeSetupIntent set my echo with {zipcode}
+ZipCodeSetupIntent set my tap with {zipcode}
+ZipCodeSetupIntent setup my device with {zipcode}
+ZipCodeSetupIntent setup my echo dot with {zipcode}
+ZipCodeSetupIntent setup my echo with {zipcode}
+ZipCodeSetupIntent setup my tap with {zipcode}
+ZipCodeSetupIntent configure {zipcode} as my zip code
+ZipCodeSetupIntent initialize {zipcode} as my zip code
+ZipCodeSetupIntent set {zipcode} as my zip code
+ZipCodeSetupIntent setup {zipcode} as my zip code
+ZipCodeSetupIntent use {zipcode} as my zip code
+
+SIdSetupIntent configure my device with {city} {state} {station}
+SIdSetupIntent configure my device with {city} {state} {stopid}
+SIdSetupIntent configure my echo dot with {city} {state} {station}
+SIdSetupIntent configure my echo dot with {city} {state} {stopid}
+SIdSetupIntent configure my echo with {city} {state} {station}
+SIdSetupIntent configure my echo with {city} {state} {stopid}
+SIdSetupIntent configure my tap with {city} {state} {station}
+SIdSetupIntent configure my tap with {city} {state} {stopid}
+SIdSetupIntent initialize my device with {city} {state} {station}
+SIdSetupIntent initialize my device with {city} {state} {stopid}
+SIdSetupIntent initialize my echo dot with {city} {state} {station}
+SIdSetupIntent initialize my echo dot with {city} {state} {stopid}
+SIdSetupIntent initialize my echo with {city} {state} {station}
+SIdSetupIntent initialize my echo with {city} {state} {stopid}
+SIdSetupIntent initialize my tap with {city} {state} {station}
+SIdSetupIntent initialize my tap with {city} {state} {stopid}
+SIdSetupIntent prepare my device with {city} {state} {station}
+SIdSetupIntent prepare my device with {city} {state} {stopid}
+SIdSetupIntent prepare my echo dot with {city} {state} {station}
+SIdSetupIntent prepare my echo dot with {city} {state} {stopid}
+SIdSetupIntent prepare my echo with {city} {state} {station}
+SIdSetupIntent prepare my echo with {city} {state} {stopid}
+SIdSetupIntent prepare my tap with {city} {state} {station}
+SIdSetupIntent prepare my tap with {city} {state} {stopid}
+SIdSetupIntent set my device with {city} {state} {station}
+SIdSetupIntent set my device with {city} {state} {stopid}
+SIdSetupIntent set my echo dot with {city} {state} {station}
+SIdSetupIntent set my echo dot with {city} {state} {stopid}
+SIdSetupIntent set my echo with {city} {state} {station}
+SIdSetupIntent set my echo with {city} {state} {stopid}
+SIdSetupIntent set my tap with {city} {state} {station}
+SIdSetupIntent set my tap with {city} {state} {stopid}
+SIdSetupIntent setup my device with {city} {state} {station}
+SIdSetupIntent setup my device with {city} {state} {stopid}
+SIdSetupIntent setup my echo dot with {city} {state} {station}
+SIdSetupIntent setup my echo dot with {city} {state} {stopid}
+SIdSetupIntent setup my echo with {city} {state} {station}
+SIdSetupIntent setup my echo with {city} {state} {stopid}
+SIdSetupIntent setup my tap with {city} {state} {station}
+SIdSetupIntent setup my tap with {city} {state} {stopid}
+SIdSetupIntent configure {city} {state} {station} for my device
+SIdSetupIntent configure {city} {state} {station} for my echo
+SIdSetupIntent configure {city} {state} {station} for my echo dot
+SIdSetupIntent configure {city} {state} {station} for my tap
+SIdSetupIntent configure {city} {state} {stopid} for my device
+SIdSetupIntent configure {city} {state} {stopid} for my echo
+SIdSetupIntent configure {city} {state} {stopid} for my echo dot
+SIdSetupIntent configure {city} {state} {stopid} for my tap
+SIdSetupIntent initialize {city} {state} {station} for my device
+SIdSetupIntent initialize {city} {state} {station} for my echo
+SIdSetupIntent initialize {city} {state} {station} for my echo dot
+SIdSetupIntent initialize {city} {state} {station} for my tap
+SIdSetupIntent initialize {city} {state} {stopid} for my device
+SIdSetupIntent initialize {city} {state} {stopid} for my echo
+SIdSetupIntent initialize {city} {state} {stopid} for my echo dot
+SIdSetupIntent initialize {city} {state} {stopid} for my tap
+SIdSetupIntent set {city} {state} {station} for my device
+SIdSetupIntent set {city} {state} {station} for my echo
+SIdSetupIntent set {city} {state} {station} for my echo dot
+SIdSetupIntent set {city} {state} {station} for my tap
+SIdSetupIntent set {city} {state} {stopid} for my device
+SIdSetupIntent set {city} {state} {stopid} for my echo
+SIdSetupIntent set {city} {state} {stopid} for my echo dot
+SIdSetupIntent set {city} {state} {stopid} for my tap
+SIdSetupIntent setup {city} {state} {station} for my device
+SIdSetupIntent setup {city} {state} {station} for my echo
+SIdSetupIntent setup {city} {state} {station} for my echo dot
+SIdSetupIntent setup {city} {state} {station} for my tap
+SIdSetupIntent setup {city} {state} {stopid} for my device
+SIdSetupIntent setup {city} {state} {stopid} for my echo
+SIdSetupIntent setup {city} {state} {stopid} for my echo dot
+SIdSetupIntent setup {city} {state} {stopid} for my tap
+SIdSetupIntent use {city} {state} {station} for my device
+SIdSetupIntent use {city} {state} {station} for my echo
+SIdSetupIntent use {city} {state} {station} for my echo dot
+SIdSetupIntent use {city} {state} {station} for my tap
+SIdSetupIntent use {city} {state} {stopid} for my device
+SIdSetupIntent use {city} {state} {stopid} for my echo
+SIdSetupIntent use {city} {state} {stopid} for my echo dot
+SIdSetupIntent use {city} {state} {stopid} for my tap
+
+ResetIntent clean my device
+ResetIntent clean my echo
+ResetIntent clean my echo dot
+ResetIntent clean my tap
+ResetIntent clean settings for my device
+ResetIntent clean settings for my echo
+ResetIntent clean settings for my echo dot
+ResetIntent clean settings for my tap
+ResetIntent clean up my device
+ResetIntent clean up my echo
+ResetIntent clean up my echo dot
+ResetIntent clean up my tap
+ResetIntent clean up settings for my device
+ResetIntent clean up settings for my echo
+ResetIntent clean up settings for my echo dot
+ResetIntent clean up settings for my tap
+ResetIntent clear my device
+ResetIntent clear my echo
+ResetIntent clear my echo dot
+ResetIntent clear my tap
+ResetIntent clear settings for my device
+ResetIntent clear settings for my echo
+ResetIntent clear settings for my echo dot
+ResetIntent clear settings for my tap
+ResetIntent remove my device
+ResetIntent remove my echo
+ResetIntent remove my echo dot
+ResetIntent remove my tap
+ResetIntent remove settings for my device
+ResetIntent remove settings for my echo
+ResetIntent remove settings for my echo dot
+ResetIntent remove settings for my tap
+ResetIntent reset my device
+ResetIntent reset my echo
+ResetIntent reset my echo dot
+ResetIntent reset my tap
+ResetIntent reset settings for my device
+ResetIntent reset settings for my echo
+ResetIntent reset settings for my echo dot
+ResetIntent reset settings for my tap
+
+HomeBriefingIntent give me my brief
+HomeBriefingIntent give me my briefing
+HomeBriefingIntent give me my flash
+HomeBriefingIntent give me my service brief
+HomeBriefingIntent give me my service briefing
+HomeBriefingIntent give me my service flash
+HomeBriefingIntent give me my service summary
+HomeBriefingIntent give me my summary
+HomeBriefingIntent give me my transit brief
+HomeBriefingIntent give me my transit briefing
+HomeBriefingIntent give me my transit flash
+HomeBriefingIntent give me my transit summary
+HomeBriefingIntent tell me my brief
+HomeBriefingIntent tell me my briefing
+HomeBriefingIntent tell me my flash
+HomeBriefingIntent tell me my service brief
+HomeBriefingIntent tell me my service briefing
+HomeBriefingIntent tell me my service flash
+HomeBriefingIntent tell me my service summary
+HomeBriefingIntent tell me my summary
+HomeBriefingIntent tell me my transit brief
+HomeBriefingIntent tell me my transit briefing
+HomeBriefingIntent tell me my transit flash
+HomeBriefingIntent tell me my transit summary
+HomeBriefingIntent what are my briefings
+HomeBriefingIntent what are my briefs
+HomeBriefingIntent what are my flash
+HomeBriefingIntent what are my service briefings
+HomeBriefingIntent what are my service briefs
+HomeBriefingIntent what are my service flash
+HomeBriefingIntent what are my service summary
+HomeBriefingIntent what are my summary
+HomeBriefingIntent what are my transit briefings
+HomeBriefingIntent what are my transit briefs
+HomeBriefingIntent what are my transit flash
+HomeBriefingIntent what are my transit summary
+HomeBriefingIntent what is my briefings
+HomeBriefingIntent what is my briefs
+HomeBriefingIntent what is my flash
+HomeBriefingIntent what is my service briefings
+HomeBriefingIntent what is my service briefs
+HomeBriefingIntent what is my service flash
+HomeBriefingIntent what is my service summary
+HomeBriefingIntent what is my summary
+HomeBriefingIntent what is my transit briefings
+HomeBriefingIntent what is my transit briefs
+HomeBriefingIntent what is my transit flash
+HomeBriefingIntent what is my transit summary
+HomeBriefingIntent what's my briefings
+HomeBriefingIntent what's my briefs
+HomeBriefingIntent what's my flash
+HomeBriefingIntent what's my service briefings
+HomeBriefingIntent what's my service briefs
+HomeBriefingIntent what's my service flash
+HomeBriefingIntent what's my service summary
+HomeBriefingIntent what's my summary
+HomeBriefingIntent what's my transit briefings
+HomeBriefingIntent what's my transit briefs
+HomeBriefingIntent what's my transit flash
+HomeBriefingIntent what's my transit summary
+HomeBriefingIntent give me brief for my stop
+HomeBriefingIntent give me briefing for my stop
+HomeBriefingIntent give me flash for my stop
+HomeBriefingIntent give me service brief for my stop
+HomeBriefingIntent give me service briefing for my stop
+HomeBriefingIntent give me service flash for my stop
+HomeBriefingIntent give me service summary for my stop
+HomeBriefingIntent give me summary for my stop
+HomeBriefingIntent give me transit brief for my stop
+HomeBriefingIntent give me transit briefing for my stop
+HomeBriefingIntent give me transit flash for my stop
+HomeBriefingIntent give me transit summary for my stop
+HomeBriefingIntent tell me brief for my stop
+HomeBriefingIntent tell me briefing for my stop
+HomeBriefingIntent tell me flash for my stop
+HomeBriefingIntent tell me service brief for my stop
+HomeBriefingIntent tell me service briefing for my stop
+HomeBriefingIntent tell me service flash for my stop
+HomeBriefingIntent tell me service summary for my stop
+HomeBriefingIntent tell me summary for my stop
+HomeBriefingIntent tell me transit brief for my stop
+HomeBriefingIntent tell me transit briefing for my stop
+HomeBriefingIntent tell me transit flash for my stop
+HomeBriefingIntent tell me transit summary for my stop
+HomeBriefingIntent what are briefings at my stop
+HomeBriefingIntent what are briefs at my stop
+HomeBriefingIntent what are flash at my stop
+HomeBriefingIntent what are service briefings at my stop
+HomeBriefingIntent what are service briefs at my stop
+HomeBriefingIntent what are service flash at my stop
+HomeBriefingIntent what are service summary at my stop
+HomeBriefingIntent what are summary at my stop
+HomeBriefingIntent what are transit briefings at my stop
+HomeBriefingIntent what are transit briefs at my stop
+HomeBriefingIntent what are transit flash at my stop
+HomeBriefingIntent what are transit summary at my stop
+HomeBriefingIntent what is briefings at my stop
+HomeBriefingIntent what is briefs at my stop
+HomeBriefingIntent what is flash at my stop
+HomeBriefingIntent what is service briefings at my stop
+HomeBriefingIntent what is service briefs at my stop
+HomeBriefingIntent what is service flash at my stop
+HomeBriefingIntent what is service summary at my stop
+HomeBriefingIntent what is summary at my stop
+HomeBriefingIntent what is transit briefings at my stop
+HomeBriefingIntent what is transit briefs at my stop
+HomeBriefingIntent what is transit flash at my stop
+HomeBriefingIntent what is transit summary at my stop
+HomeBriefingIntent what's briefings at my stop
+HomeBriefingIntent what's briefs at my stop
+HomeBriefingIntent what's flash at my stop
+HomeBriefingIntent what's service briefings at my stop
+HomeBriefingIntent what's service briefs at my stop
+HomeBriefingIntent what's service flash at my stop
+HomeBriefingIntent what's service summary at my stop
+HomeBriefingIntent what's summary at my stop
+HomeBriefingIntent what's transit briefings at my stop
+HomeBriefingIntent what's transit briefs at my stop
+HomeBriefingIntent what's transit flash at my stop
+HomeBriefingIntent what's transit summary at my stop
+
+HomeArrivalsIntent give me my arrival
+HomeArrivalsIntent give me my arrivals
+HomeArrivalsIntent give me my service arrival
+HomeArrivalsIntent give me my service arrivals
+HomeArrivalsIntent give me my transit arrival
+HomeArrivalsIntent give me my transit arrivals
+HomeArrivalsIntent tell me my arrival
+HomeArrivalsIntent tell me my arrivals
+HomeArrivalsIntent tell me my service arrival
+HomeArrivalsIntent tell me my service arrivals
+HomeArrivalsIntent tell me my transit arrival
+HomeArrivalsIntent tell me my transit arrivals
+HomeArrivalsIntent what are my arrival
+HomeArrivalsIntent what are my arrivals
+HomeArrivalsIntent what are my service arrival
+HomeArrivalsIntent what are my service arrivals
+HomeArrivalsIntent what are my transit arrival
+HomeArrivalsIntent what are my transit arrivals
+HomeArrivalsIntent what is my arrival
+HomeArrivalsIntent what is my arrivals
+HomeArrivalsIntent what is my service arrival
+HomeArrivalsIntent what is my service arrivals
+HomeArrivalsIntent what is my transit arrival
+HomeArrivalsIntent what is my transit arrivals
+HomeArrivalsIntent what's my arrival
+HomeArrivalsIntent what's my arrivals
+HomeArrivalsIntent what's my service arrival
+HomeArrivalsIntent what's my service arrivals
+HomeArrivalsIntent what's my transit arrival
+HomeArrivalsIntent what's my transit arrivals
+HomeArrivalsIntent give me arrival for my stop
+HomeArrivalsIntent give me arrivals for my stop
+HomeArrivalsIntent give me service arrival for my stop
+HomeArrivalsIntent give me service arrivals for my stop
+HomeArrivalsIntent give me transit arrival for my stop
+HomeArrivalsIntent give me transit arrivals for my stop
+HomeArrivalsIntent tell me arrival for my stop
+HomeArrivalsIntent tell me arrivals for my stop
+HomeArrivalsIntent tell me service arrival for my stop
+HomeArrivalsIntent tell me service arrivals for my stop
+HomeArrivalsIntent tell me transit arrival for my stop
+HomeArrivalsIntent tell me transit arrivals for my stop
+HomeArrivalsIntent what are arrival at my stop
+HomeArrivalsIntent what are arrivals at my stop
+HomeArrivalsIntent what are service arrival at my stop
+HomeArrivalsIntent what are service arrivals at my stop
+HomeArrivalsIntent what are transit arrival at my stop
+HomeArrivalsIntent what are transit arrivals at my stop
+HomeArrivalsIntent what is arrival at my stop
+HomeArrivalsIntent what is arrivals at my stop
+HomeArrivalsIntent what is service arrival at my stop
+HomeArrivalsIntent what is service arrivals at my stop
+HomeArrivalsIntent what is transit arrival at my stop
+HomeArrivalsIntent what is transit arrivals at my stop
+HomeArrivalsIntent what's arrival at my stop
+HomeArrivalsIntent what's arrivals at my stop
+HomeArrivalsIntent what's service arrival at my stop
+HomeArrivalsIntent what's service arrivals at my stop
+HomeArrivalsIntent what's transit arrival at my stop
+HomeArrivalsIntent what's transit arrivals at my stop
+HomeArrivalsIntent find me a bus
+HomeArrivalsIntent find me a line
+HomeArrivalsIntent find me a ride
+HomeArrivalsIntent find me a train
+HomeArrivalsIntent get me a bus
+HomeArrivalsIntent get me a line
+HomeArrivalsIntent get me a ride
+HomeArrivalsIntent get me a train
+HomeArrivalsIntent where is my bus
+HomeArrivalsIntent where is my line
+HomeArrivalsIntent where is my ride
+HomeArrivalsIntent where is my train
+
+HomeAlertsIntent give me my alert
+HomeAlertsIntent give me my alerts
+HomeAlertsIntent give me my service alert
+HomeAlertsIntent give me my service alerts
+HomeAlertsIntent give me my transit alert
+HomeAlertsIntent give me my transit alerts
+HomeAlertsIntent tell me my alert
+HomeAlertsIntent tell me my alerts
+HomeAlertsIntent tell me my service alert
+HomeAlertsIntent tell me my service alerts
+HomeAlertsIntent tell me my transit alert
+HomeAlertsIntent tell me my transit alerts
+HomeAlertsIntent what are my alert
+HomeAlertsIntent what are my alerts
+HomeAlertsIntent what are my service alert
+HomeAlertsIntent what are my service alerts
+HomeAlertsIntent what are my transit alert
+HomeAlertsIntent what are my transit alerts
+HomeAlertsIntent what is my alert
+HomeAlertsIntent what is my alerts
+HomeAlertsIntent what is my service alert
+HomeAlertsIntent what is my service alerts
+HomeAlertsIntent what is my transit alert
+HomeAlertsIntent what is my transit alerts
+HomeAlertsIntent what's my alert
+HomeAlertsIntent what's my alerts
+HomeAlertsIntent what's my service alert
+HomeAlertsIntent what's my service alerts
+HomeAlertsIntent what's my transit alert
+HomeAlertsIntent what's my transit alerts
+HomeAlertsIntent give me alert for my stop
+HomeAlertsIntent give me alerts for my stop
+HomeAlertsIntent give me service alert for my stop
+HomeAlertsIntent give me service alerts for my stop
+HomeAlertsIntent give me transit alert for my stop
+HomeAlertsIntent give me transit alerts for my stop
+HomeAlertsIntent tell me alert for my stop
+HomeAlertsIntent tell me alerts for my stop
+HomeAlertsIntent tell me service alert for my stop
+HomeAlertsIntent tell me service alerts for my stop
+HomeAlertsIntent tell me transit alert for my stop
+HomeAlertsIntent tell me transit alerts for my stop
+HomeAlertsIntent what are alert at my stop
+HomeAlertsIntent what are alerts at my stop
+HomeAlertsIntent what are service alert at my stop
+HomeAlertsIntent what are service alerts at my stop
+HomeAlertsIntent what are transit alert at my stop
+HomeAlertsIntent what are transit alerts at my stop
+HomeAlertsIntent what is alert at my stop
+HomeAlertsIntent what is alerts at my stop
+HomeAlertsIntent what is service alert at my stop
+HomeAlertsIntent what is service alerts at my stop
+HomeAlertsIntent what is transit alert at my stop
+HomeAlertsIntent what is transit alerts at my stop
+HomeAlertsIntent what's alert at my stop
+HomeAlertsIntent what's alerts at my stop
+HomeAlertsIntent what's service alert at my stop
+HomeAlertsIntent what's service alerts at my stop
+HomeAlertsIntent what's transit alert at my stop
+HomeAlertsIntent what's transit alerts at my stop
+
+HomeSchedulesIntent give me my schedule
+HomeSchedulesIntent give me my schedules
+HomeSchedulesIntent give me my service schedule
+HomeSchedulesIntent give me my service schedules
+HomeSchedulesIntent give me my transit schedule
+HomeSchedulesIntent give me my transit schedules
+HomeSchedulesIntent tell me my schedule
+HomeSchedulesIntent tell me my schedules
+HomeSchedulesIntent tell me my service schedule
+HomeSchedulesIntent tell me my service schedules
+HomeSchedulesIntent tell me my transit schedule
+HomeSchedulesIntent tell me my transit schedules
+HomeSchedulesIntent what are my schedule
+HomeSchedulesIntent what are my schedules
+HomeSchedulesIntent what are my service schedule
+HomeSchedulesIntent what are my service schedules
+HomeSchedulesIntent what are my transit schedule
+HomeSchedulesIntent what are my transit schedules
+HomeSchedulesIntent what is my schedule
+HomeSchedulesIntent what is my schedules
+HomeSchedulesIntent what is my service schedule
+HomeSchedulesIntent what is my service schedules
+HomeSchedulesIntent what is my transit schedule
+HomeSchedulesIntent what is my transit schedules
+HomeSchedulesIntent what's my schedule
+HomeSchedulesIntent what's my schedules
+HomeSchedulesIntent what's my service schedule
+HomeSchedulesIntent what's my service schedules
+HomeSchedulesIntent what's my transit schedule
+HomeSchedulesIntent what's my transit schedules
+HomeSchedulesIntent give me schedule for my stop
+HomeSchedulesIntent give me schedules for my stop
+HomeSchedulesIntent give me service schedule for my stop
+HomeSchedulesIntent give me service schedules for my stop
+HomeSchedulesIntent give me transit schedule for my stop
+HomeSchedulesIntent give me transit schedules for my stop
+HomeSchedulesIntent tell me schedule for my stop
+HomeSchedulesIntent tell me schedules for my stop
+HomeSchedulesIntent tell me service schedule for my stop
+HomeSchedulesIntent tell me service schedules for my stop
+HomeSchedulesIntent tell me transit schedule for my stop
+HomeSchedulesIntent tell me transit schedules for my stop
+HomeSchedulesIntent what are schedule at my stop
+HomeSchedulesIntent what are schedules at my stop
+HomeSchedulesIntent what are service schedule at my stop
+HomeSchedulesIntent what are service schedules at my stop
+HomeSchedulesIntent what are transit schedule at my stop
+HomeSchedulesIntent what are transit schedules at my stop
+HomeSchedulesIntent what is schedule at my stop
+HomeSchedulesIntent what is schedules at my stop
+HomeSchedulesIntent what is service schedule at my stop
+HomeSchedulesIntent what is service schedules at my stop
+HomeSchedulesIntent what is transit schedule at my stop
+HomeSchedulesIntent what is transit schedules at my stop
+HomeSchedulesIntent what's schedule at my stop
+HomeSchedulesIntent what's schedules at my stop
+HomeSchedulesIntent what's service schedule at my stop
+HomeSchedulesIntent what's service schedules at my stop
+HomeSchedulesIntent what's transit schedule at my stop
+HomeSchedulesIntent what's transit schedules at my stop
+
+HomeDelaysIntent give me my delay
+HomeDelaysIntent give me my delays
+HomeDelaysIntent give me my service delay
+HomeDelaysIntent give me my service delays
+HomeDelaysIntent give me my transit delay
+HomeDelaysIntent give me my transit delays
+HomeDelaysIntent tell me my delay
+HomeDelaysIntent tell me my delays
+HomeDelaysIntent tell me my service delay
+HomeDelaysIntent tell me my service delays
+HomeDelaysIntent tell me my transit delay
+HomeDelaysIntent tell me my transit delays
+HomeDelaysIntent what are my delay
+HomeDelaysIntent what are my delays
+HomeDelaysIntent what are my service delay
+HomeDelaysIntent what are my service delays
+HomeDelaysIntent what are my transit delay
+HomeDelaysIntent what are my transit delays
+HomeDelaysIntent what is my delay
+HomeDelaysIntent what is my delays
+HomeDelaysIntent what is my service delay
+HomeDelaysIntent what is my service delays
+HomeDelaysIntent what is my transit delay
+HomeDelaysIntent what is my transit delays
+HomeDelaysIntent what's my delay
+HomeDelaysIntent what's my delays
+HomeDelaysIntent what's my service delay
+HomeDelaysIntent what's my service delays
+HomeDelaysIntent what's my transit delay
+HomeDelaysIntent what's my transit delays
+HomeDelaysIntent give me delay for my stop
+HomeDelaysIntent give me delays for my stop
+HomeDelaysIntent give me service delay for my stop
+HomeDelaysIntent give me service delays for my stop
+HomeDelaysIntent give me transit delay for my stop
+HomeDelaysIntent give me transit delays for my stop
+HomeDelaysIntent tell me delay for my stop
+HomeDelaysIntent tell me delays for my stop
+HomeDelaysIntent tell me service delay for my stop
+HomeDelaysIntent tell me service delays for my stop
+HomeDelaysIntent tell me transit delay for my stop
+HomeDelaysIntent tell me transit delays for my stop
+HomeDelaysIntent what are delay at my stop
+HomeDelaysIntent what are delays at my stop
+HomeDelaysIntent what are service delay at my stop
+HomeDelaysIntent what are service delays at my stop
+HomeDelaysIntent what are transit delay at my stop
+HomeDelaysIntent what are transit delays at my stop
+HomeDelaysIntent what is delay at my stop
+HomeDelaysIntent what is delays at my stop
+HomeDelaysIntent what is service delay at my stop
+HomeDelaysIntent what is service delays at my stop
+HomeDelaysIntent what is transit delay at my stop
+HomeDelaysIntent what is transit delays at my stop
+HomeDelaysIntent what's delay at my stop
+HomeDelaysIntent what's delays at my stop
+HomeDelaysIntent what's service delay at my stop
+HomeDelaysIntent what's service delays at my stop
+HomeDelaysIntent what's transit delay at my stop
+HomeDelaysIntent what's transit delays at my stop
+
+HomeDetouresIntent give me my detour
+HomeDetouresIntent give me my detours
+HomeDetouresIntent give me my service detour
+HomeDetouresIntent give me my service detours
+HomeDetouresIntent give me my transit detour
+HomeDetouresIntent give me my transit detours
+HomeDetouresIntent tell me my detour
+HomeDetouresIntent tell me my detours
+HomeDetouresIntent tell me my service detour
+HomeDetouresIntent tell me my service detours
+HomeDetouresIntent tell me my transit detour
+HomeDetouresIntent tell me my transit detours
+HomeDetouresIntent what are my detour
+HomeDetouresIntent what are my detours
+HomeDetouresIntent what are my service detour
+HomeDetouresIntent what are my service detours
+HomeDetouresIntent what are my transit detour
+HomeDetouresIntent what are my transit detours
+HomeDetouresIntent what is my detour
+HomeDetouresIntent what is my detours
+HomeDetouresIntent what is my service detour
+HomeDetouresIntent what is my service detours
+HomeDetouresIntent what is my transit detour
+HomeDetouresIntent what is my transit detours
+HomeDetouresIntent what's my detour
+HomeDetouresIntent what's my detours
+HomeDetouresIntent what's my service detour
+HomeDetouresIntent what's my service detours
+HomeDetouresIntent what's my transit detour
+HomeDetouresIntent what's my transit detours
+HomeDetouresIntent give me detour for my stop
+HomeDetouresIntent give me detours for my stop
+HomeDetouresIntent give me service detour for my stop
+HomeDetouresIntent give me service detours for my stop
+HomeDetouresIntent give me transit detour for my stop
+HomeDetouresIntent give me transit detours for my stop
+HomeDetouresIntent tell me detour for my stop
+HomeDetouresIntent tell me detours for my stop
+HomeDetouresIntent tell me service detour for my stop
+HomeDetouresIntent tell me service detours for my stop
+HomeDetouresIntent tell me transit detour for my stop
+HomeDetouresIntent tell me transit detours for my stop
+HomeDetouresIntent what are detour at my stop
+HomeDetouresIntent what are detours at my stop
+HomeDetouresIntent what are service detour at my stop
+HomeDetouresIntent what are service detours at my stop
+HomeDetouresIntent what are transit detour at my stop
+HomeDetouresIntent what are transit detours at my stop
+HomeDetouresIntent what is detour at my stop
+HomeDetouresIntent what is detours at my stop
+HomeDetouresIntent what is service detour at my stop
+HomeDetouresIntent what is service detours at my stop
+HomeDetouresIntent what is transit detour at my stop
+HomeDetouresIntent what is transit detours at my stop
+HomeDetouresIntent what's detour at my stop
+HomeDetouresIntent what's detours at my stop
+HomeDetouresIntent what's service detour at my stop
+HomeDetouresIntent what's service detours at my stop
+HomeDetouresIntent what's transit detour at my stop
+HomeDetouresIntent what's transit detours at my stop
+
+StopBriefingIntent brief at stop {stopid}
+StopBriefingIntent brief at {stopid}
+StopBriefingIntent brief for stop {stopid}
+StopBriefingIntent brief for {stopid}
+StopBriefingIntent briefing at stop {stopid}
+StopBriefingIntent briefing at {stopid}
+StopBriefingIntent briefing for stop {stopid}
+StopBriefingIntent briefing for {stopid}
+StopBriefingIntent flash at stop {stopid}
+StopBriefingIntent flash at {stopid}
+StopBriefingIntent flash for stop {stopid}
+StopBriefingIntent flash for {stopid}
+StopBriefingIntent service brief at stop {stopid}
+StopBriefingIntent service brief at {stopid}
+StopBriefingIntent service brief for stop {stopid}
+StopBriefingIntent service brief for {stopid}
+StopBriefingIntent service briefing at stop {stopid}
+StopBriefingIntent service briefing at {stopid}
+StopBriefingIntent service briefing for stop {stopid}
+StopBriefingIntent service briefing for {stopid}
+StopBriefingIntent service flash at stop {stopid}
+StopBriefingIntent service flash at {stopid}
+StopBriefingIntent service flash for stop {stopid}
+StopBriefingIntent service flash for {stopid}
+StopBriefingIntent service summary at stop {stopid}
+StopBriefingIntent service summary at {stopid}
+StopBriefingIntent service summary for stop {stopid}
+StopBriefingIntent service summary for {stopid}
+StopBriefingIntent summary at stop {stopid}
+StopBriefingIntent summary at {stopid}
+StopBriefingIntent summary for stop {stopid}
+StopBriefingIntent summary for {stopid}
+StopBriefingIntent transit brief at stop {stopid}
+StopBriefingIntent transit brief at {stopid}
+StopBriefingIntent transit brief for stop {stopid}
+StopBriefingIntent transit brief for {stopid}
+StopBriefingIntent transit briefing at stop {stopid}
+StopBriefingIntent transit briefing at {stopid}
+StopBriefingIntent transit briefing for stop {stopid}
+StopBriefingIntent transit briefing for {stopid}
+StopBriefingIntent transit flash at stop {stopid}
+StopBriefingIntent transit flash at {stopid}
+StopBriefingIntent transit flash for stop {stopid}
+StopBriefingIntent transit flash for {stopid}
+StopBriefingIntent transit summary at stop {stopid}
+StopBriefingIntent transit summary at {stopid}
+StopBriefingIntent transit summary for stop {stopid}
+StopBriefingIntent transit summary for {stopid}
+StopBriefingIntent brief at stop {stopid}
+StopBriefingIntent brief at {stopid}
+StopBriefingIntent brief for stop {stopid}
+StopBriefingIntent brief for {stopid}
+StopBriefingIntent briefing at stop {stopid}
+StopBriefingIntent briefing at {stopid}
+StopBriefingIntent briefing for stop {stopid}
+StopBriefingIntent briefing for {stopid}
+StopBriefingIntent flash at stop {stopid}
+StopBriefingIntent flash at {stopid}
+StopBriefingIntent flash for stop {stopid}
+StopBriefingIntent flash for {stopid}
+StopBriefingIntent service brief at stop {stopid}
+StopBriefingIntent service brief at {stopid}
+StopBriefingIntent service brief for stop {stopid}
+StopBriefingIntent service brief for {stopid}
+StopBriefingIntent service briefing at stop {stopid}
+StopBriefingIntent service briefing at {stopid}
+StopBriefingIntent service briefing for stop {stopid}
+StopBriefingIntent service briefing for {stopid}
+StopBriefingIntent service flash at stop {stopid}
+StopBriefingIntent service flash at {stopid}
+StopBriefingIntent service flash for stop {stopid}
+StopBriefingIntent service flash for {stopid}
+StopBriefingIntent service summary at stop {stopid}
+StopBriefingIntent service summary at {stopid}
+StopBriefingIntent service summary for stop {stopid}
+StopBriefingIntent service summary for {stopid}
+StopBriefingIntent summary at stop {stopid}
+StopBriefingIntent summary at {stopid}
+StopBriefingIntent summary for stop {stopid}
+StopBriefingIntent summary for {stopid}
+StopBriefingIntent transit brief at stop {stopid}
+StopBriefingIntent transit brief at {stopid}
+StopBriefingIntent transit brief for stop {stopid}
+StopBriefingIntent transit brief for {stopid}
+StopBriefingIntent transit briefing at stop {stopid}
+StopBriefingIntent transit briefing at {stopid}
+StopBriefingIntent transit briefing for stop {stopid}
+StopBriefingIntent transit briefing for {stopid}
+StopBriefingIntent transit flash at stop {stopid}
+StopBriefingIntent transit flash at {stopid}
+StopBriefingIntent transit flash for stop {stopid}
+StopBriefingIntent transit flash for {stopid}
+StopBriefingIntent transit summary at stop {stopid}
+StopBriefingIntent transit summary at {stopid}
+StopBriefingIntent transit summary for stop {stopid}
+StopBriefingIntent transit summary for {stopid}
+
+StopArrivalsIntent give me arrival at stop {stopid}
+StopArrivalsIntent give me arrival at {stopid}
+StopArrivalsIntent give me arrival for stop {stopid}
+StopArrivalsIntent give me arrival for {stopid}
+StopArrivalsIntent give me arrivals at stop {stopid}
+StopArrivalsIntent give me arrivals at {stopid}
+StopArrivalsIntent give me arrivals for stop {stopid}
+StopArrivalsIntent give me arrivals for {stopid}
+StopArrivalsIntent give me service arrival at stop {stopid}
+StopArrivalsIntent give me service arrival at {stopid}
+StopArrivalsIntent give me service arrival for stop {stopid}
+StopArrivalsIntent give me service arrival for {stopid}
+StopArrivalsIntent give me service arrivals at stop {stopid}
+StopArrivalsIntent give me service arrivals at {stopid}
+StopArrivalsIntent give me service arrivals for stop {stopid}
+StopArrivalsIntent give me service arrivals for {stopid}
+StopArrivalsIntent give me transit arrival at stop {stopid}
+StopArrivalsIntent give me transit arrival at {stopid}
+StopArrivalsIntent give me transit arrival for stop {stopid}
+StopArrivalsIntent give me transit arrival for {stopid}
+StopArrivalsIntent give me transit arrivals at stop {stopid}
+StopArrivalsIntent give me transit arrivals at {stopid}
+StopArrivalsIntent give me transit arrivals for stop {stopid}
+StopArrivalsIntent give me transit arrivals for {stopid}
+StopArrivalsIntent tell me arrival at stop {stopid}
+StopArrivalsIntent tell me arrival at {stopid}
+StopArrivalsIntent tell me arrival for stop {stopid}
+StopArrivalsIntent tell me arrival for {stopid}
+StopArrivalsIntent tell me arrivals at stop {stopid}
+StopArrivalsIntent tell me arrivals at {stopid}
+StopArrivalsIntent tell me arrivals for stop {stopid}
+StopArrivalsIntent tell me arrivals for {stopid}
+StopArrivalsIntent tell me service arrival at stop {stopid}
+StopArrivalsIntent tell me service arrival at {stopid}
+StopArrivalsIntent tell me service arrival for stop {stopid}
+StopArrivalsIntent tell me service arrival for {stopid}
+StopArrivalsIntent tell me service arrivals at stop {stopid}
+StopArrivalsIntent tell me service arrivals at {stopid}
+StopArrivalsIntent tell me service arrivals for stop {stopid}
+StopArrivalsIntent tell me service arrivals for {stopid}
+StopArrivalsIntent tell me transit arrival at stop {stopid}
+StopArrivalsIntent tell me transit arrival at {stopid}
+StopArrivalsIntent tell me transit arrival for stop {stopid}
+StopArrivalsIntent tell me transit arrival for {stopid}
+StopArrivalsIntent tell me transit arrivals at stop {stopid}
+StopArrivalsIntent tell me transit arrivals at {stopid}
+StopArrivalsIntent tell me transit arrivals for stop {stopid}
+StopArrivalsIntent tell me transit arrivals for {stopid}
+StopArrivalsIntent arrival at stop {stopid}
+StopArrivalsIntent arrival at {stopid}
+StopArrivalsIntent arrival for stop {stopid}
+StopArrivalsIntent arrival for {stopid}
+StopArrivalsIntent arrivals at stop {stopid}
+StopArrivalsIntent arrivals at {stopid}
+StopArrivalsIntent arrivals for stop {stopid}
+StopArrivalsIntent arrivals for {stopid}
+StopArrivalsIntent service arrival at stop {stopid}
+StopArrivalsIntent service arrival at {stopid}
+StopArrivalsIntent service arrival for stop {stopid}
+StopArrivalsIntent service arrival for {stopid}
+StopArrivalsIntent service arrivals at stop {stopid}
+StopArrivalsIntent service arrivals at {stopid}
+StopArrivalsIntent service arrivals for stop {stopid}
+StopArrivalsIntent service arrivals for {stopid}
+StopArrivalsIntent transit arrival at stop {stopid}
+StopArrivalsIntent transit arrival at {stopid}
+StopArrivalsIntent transit arrival for stop {stopid}
+StopArrivalsIntent transit arrival for {stopid}
+StopArrivalsIntent transit arrivals at stop {stopid}
+StopArrivalsIntent transit arrivals at {stopid}
+StopArrivalsIntent transit arrivals for stop {stopid}
+StopArrivalsIntent transit arrivals for {stopid}
+
+StopSchedulesIntent give me schedule at stop {stopid}
+StopSchedulesIntent give me schedule at {stopid}
+StopSchedulesIntent give me schedule for stop {stopid}
+StopSchedulesIntent give me schedule for {stopid}
+StopSchedulesIntent give me schedules at stop {stopid}
+StopSchedulesIntent give me schedules at {stopid}
+StopSchedulesIntent give me schedules for stop {stopid}
+StopSchedulesIntent give me schedules for {stopid}
+StopSchedulesIntent give me service schedule at stop {stopid}
+StopSchedulesIntent give me service schedule at {stopid}
+StopSchedulesIntent give me service schedule for stop {stopid}
+StopSchedulesIntent give me service schedule for {stopid}
+StopSchedulesIntent give me service schedules at stop {stopid}
+StopSchedulesIntent give me service schedules at {stopid}
+StopSchedulesIntent give me service schedules for stop {stopid}
+StopSchedulesIntent give me service schedules for {stopid}
+StopSchedulesIntent give me transit schedule at stop {stopid}
+StopSchedulesIntent give me transit schedule at {stopid}
+StopSchedulesIntent give me transit schedule for stop {stopid}
+StopSchedulesIntent give me transit schedule for {stopid}
+StopSchedulesIntent give me transit schedules at stop {stopid}
+StopSchedulesIntent give me transit schedules at {stopid}
+StopSchedulesIntent give me transit schedules for stop {stopid}
+StopSchedulesIntent give me transit schedules for {stopid}
+StopSchedulesIntent tell me schedule at stop {stopid}
+StopSchedulesIntent tell me schedule at {stopid}
+StopSchedulesIntent tell me schedule for stop {stopid}
+StopSchedulesIntent tell me schedule for {stopid}
+StopSchedulesIntent tell me schedules at stop {stopid}
+StopSchedulesIntent tell me schedules at {stopid}
+StopSchedulesIntent tell me schedules for stop {stopid}
+StopSchedulesIntent tell me schedules for {stopid}
+StopSchedulesIntent tell me service schedule at stop {stopid}
+StopSchedulesIntent tell me service schedule at {stopid}
+StopSchedulesIntent tell me service schedule for stop {stopid}
+StopSchedulesIntent tell me service schedule for {stopid}
+StopSchedulesIntent tell me service schedules at stop {stopid}
+StopSchedulesIntent tell me service schedules at {stopid}
+StopSchedulesIntent tell me service schedules for stop {stopid}
+StopSchedulesIntent tell me service schedules for {stopid}
+StopSchedulesIntent tell me transit schedule at stop {stopid}
+StopSchedulesIntent tell me transit schedule at {stopid}
+StopSchedulesIntent tell me transit schedule for stop {stopid}
+StopSchedulesIntent tell me transit schedule for {stopid}
+StopSchedulesIntent tell me transit schedules at stop {stopid}
+StopSchedulesIntent tell me transit schedules at {stopid}
+StopSchedulesIntent tell me transit schedules for stop {stopid}
+StopSchedulesIntent tell me transit schedules for {stopid}
+StopSchedulesIntent schedule at stop {stopid}
+StopSchedulesIntent schedule at {stopid}
+StopSchedulesIntent schedule for stop {stopid}
+StopSchedulesIntent schedule for {stopid}
+StopSchedulesIntent schedules at stop {stopid}
+StopSchedulesIntent schedules at {stopid}
+StopSchedulesIntent schedules for stop {stopid}
+StopSchedulesIntent schedules for {stopid}
+StopSchedulesIntent service schedule at stop {stopid}
+StopSchedulesIntent service schedule at {stopid}
+StopSchedulesIntent service schedule for stop {stopid}
+StopSchedulesIntent service schedule for {stopid}
+StopSchedulesIntent service schedules at stop {stopid}
+StopSchedulesIntent service schedules at {stopid}
+StopSchedulesIntent service schedules for stop {stopid}
+StopSchedulesIntent service schedules for {stopid}
+StopSchedulesIntent transit schedule at stop {stopid}
+StopSchedulesIntent transit schedule at {stopid}
+StopSchedulesIntent transit schedule for stop {stopid}
+StopSchedulesIntent transit schedule for {stopid}
+StopSchedulesIntent transit schedules at stop {stopid}
+StopSchedulesIntent transit schedules at {stopid}
+StopSchedulesIntent transit schedules for stop {stopid}
+StopSchedulesIntent transit schedules for {stopid}
+
+StopAlertsIntent give me alert at stop {stopid}
+StopAlertsIntent give me alert at {stopid}
+StopAlertsIntent give me alert for stop {stopid}
+StopAlertsIntent give me alert for {stopid}
+StopAlertsIntent give me alerts at stop {stopid}
+StopAlertsIntent give me alerts at {stopid}
+StopAlertsIntent give me alerts for stop {stopid}
+StopAlertsIntent give me alerts for {stopid}
+StopAlertsIntent give me service alert at stop {stopid}
+StopAlertsIntent give me service alert at {stopid}
+StopAlertsIntent give me service alert for stop {stopid}
+StopAlertsIntent give me service alert for {stopid}
+StopAlertsIntent give me service alerts at stop {stopid}
+StopAlertsIntent give me service alerts at {stopid}
+StopAlertsIntent give me service alerts for stop {stopid}
+StopAlertsIntent give me service alerts for {stopid}
+StopAlertsIntent give me transit alert at stop {stopid}
+StopAlertsIntent give me transit alert at {stopid}
+StopAlertsIntent give me transit alert for stop {stopid}
+StopAlertsIntent give me transit alert for {stopid}
+StopAlertsIntent give me transit alerts at stop {stopid}
+StopAlertsIntent give me transit alerts at {stopid}
+StopAlertsIntent give me transit alerts for stop {stopid}
+StopAlertsIntent give me transit alerts for {stopid}
+StopAlertsIntent tell me alert at stop {stopid}
+StopAlertsIntent tell me alert at {stopid}
+StopAlertsIntent tell me alert for stop {stopid}
+StopAlertsIntent tell me alert for {stopid}
+StopAlertsIntent tell me alerts at stop {stopid}
+StopAlertsIntent tell me alerts at {stopid}
+StopAlertsIntent tell me alerts for stop {stopid}
+StopAlertsIntent tell me alerts for {stopid}
+StopAlertsIntent tell me service alert at stop {stopid}
+StopAlertsIntent tell me service alert at {stopid}
+StopAlertsIntent tell me service alert for stop {stopid}
+StopAlertsIntent tell me service alert for {stopid}
+StopAlertsIntent tell me service alerts at stop {stopid}
+StopAlertsIntent tell me service alerts at {stopid}
+StopAlertsIntent tell me service alerts for stop {stopid}
+StopAlertsIntent tell me service alerts for {stopid}
+StopAlertsIntent tell me transit alert at stop {stopid}
+StopAlertsIntent tell me transit alert at {stopid}
+StopAlertsIntent tell me transit alert for stop {stopid}
+StopAlertsIntent tell me transit alert for {stopid}
+StopAlertsIntent tell me transit alerts at stop {stopid}
+StopAlertsIntent tell me transit alerts at {stopid}
+StopAlertsIntent tell me transit alerts for stop {stopid}
+StopAlertsIntent tell me transit alerts for {stopid}
+StopAlertsIntent alert at stop {stopid}
+StopAlertsIntent alert at {stopid}
+StopAlertsIntent alert for stop {stopid}
+StopAlertsIntent alert for {stopid}
+StopAlertsIntent alerts at stop {stopid}
+StopAlertsIntent alerts at {stopid}
+StopAlertsIntent alerts for stop {stopid}
+StopAlertsIntent alerts for {stopid}
+StopAlertsIntent service alert at stop {stopid}
+StopAlertsIntent service alert at {stopid}
+StopAlertsIntent service alert for stop {stopid}
+StopAlertsIntent service alert for {stopid}
+StopAlertsIntent service alerts at stop {stopid}
+StopAlertsIntent service alerts at {stopid}
+StopAlertsIntent service alerts for stop {stopid}
+StopAlertsIntent service alerts for {stopid}
+StopAlertsIntent transit alert at stop {stopid}
+StopAlertsIntent transit alert at {stopid}
+StopAlertsIntent transit alert for stop {stopid}
+StopAlertsIntent transit alert for {stopid}
+StopAlertsIntent transit alerts at stop {stopid}
+StopAlertsIntent transit alerts at {stopid}
+StopAlertsIntent transit alerts for stop {stopid}
+StopAlertsIntent transit alerts for {stopid}
+
+StopDelaysIntent give me delay at stop {stopid}
+StopDelaysIntent give me delay at {stopid}
+StopDelaysIntent give me delay for stop {stopid}
+StopDelaysIntent give me delay for {stopid}
+StopDelaysIntent give me delays at stop {stopid}
+StopDelaysIntent give me delays at {stopid}
+StopDelaysIntent give me delays for stop {stopid}
+StopDelaysIntent give me delays for {stopid}
+StopDelaysIntent give me service delay at stop {stopid}
+StopDelaysIntent give me service delay at {stopid}
+StopDelaysIntent give me service delay for stop {stopid}
+StopDelaysIntent give me service delay for {stopid}
+StopDelaysIntent give me service delays at stop {stopid}
+StopDelaysIntent give me service delays at {stopid}
+StopDelaysIntent give me service delays for stop {stopid}
+StopDelaysIntent give me service delays for {stopid}
+StopDelaysIntent give me transit delay at stop {stopid}
+StopDelaysIntent give me transit delay at {stopid}
+StopDelaysIntent give me transit delay for stop {stopid}
+StopDelaysIntent give me transit delay for {stopid}
+StopDelaysIntent give me transit delays at stop {stopid}
+StopDelaysIntent give me transit delays at {stopid}
+StopDelaysIntent give me transit delays for stop {stopid}
+StopDelaysIntent give me transit delays for {stopid}
+StopDelaysIntent tell me delay at stop {stopid}
+StopDelaysIntent tell me delay at {stopid}
+StopDelaysIntent tell me delay for stop {stopid}
+StopDelaysIntent tell me delay for {stopid}
+StopDelaysIntent tell me delays at stop {stopid}
+StopDelaysIntent tell me delays at {stopid}
+StopDelaysIntent tell me delays for stop {stopid}
+StopDelaysIntent tell me delays for {stopid}
+StopDelaysIntent tell me service delay at stop {stopid}
+StopDelaysIntent tell me service delay at {stopid}
+StopDelaysIntent tell me service delay for stop {stopid}
+StopDelaysIntent tell me service delay for {stopid}
+StopDelaysIntent tell me service delays at stop {stopid}
+StopDelaysIntent tell me service delays at {stopid}
+StopDelaysIntent tell me service delays for stop {stopid}
+StopDelaysIntent tell me service delays for {stopid}
+StopDelaysIntent tell me transit delay at stop {stopid}
+StopDelaysIntent tell me transit delay at {stopid}
+StopDelaysIntent tell me transit delay for stop {stopid}
+StopDelaysIntent tell me transit delay for {stopid}
+StopDelaysIntent tell me transit delays at stop {stopid}
+StopDelaysIntent tell me transit delays at {stopid}
+StopDelaysIntent tell me transit delays for stop {stopid}
+StopDelaysIntent tell me transit delays for {stopid}
+StopDelaysIntent delay at stop {stopid}
+StopDelaysIntent delay at {stopid}
+StopDelaysIntent delay for stop {stopid}
+StopDelaysIntent delay for {stopid}
+StopDelaysIntent delays at stop {stopid}
+StopDelaysIntent delays at {stopid}
+StopDelaysIntent delays for stop {stopid}
+StopDelaysIntent delays for {stopid}
+StopDelaysIntent service delay at stop {stopid}
+StopDelaysIntent service delay at {stopid}
+StopDelaysIntent service delay for stop {stopid}
+StopDelaysIntent service delay for {stopid}
+StopDelaysIntent service delays at stop {stopid}
+StopDelaysIntent service delays at {stopid}
+StopDelaysIntent service delays for stop {stopid}
+StopDelaysIntent service delays for {stopid}
+StopDelaysIntent transit delay at stop {stopid}
+StopDelaysIntent transit delay at {stopid}
+StopDelaysIntent transit delay for stop {stopid}
+StopDelaysIntent transit delay for {stopid}
+StopDelaysIntent transit delays at stop {stopid}
+StopDelaysIntent transit delays at {stopid}
+StopDelaysIntent transit delays for stop {stopid}
+StopDelaysIntent transit delays for {stopid}
+
+RouteDetouresIntent give me detour at bus {routeid}
+RouteDetouresIntent give me detour at route {routeid}
+RouteDetouresIntent give me detour at {routeid}
+RouteDetouresIntent give me detour for bus {routeid}
+RouteDetouresIntent give me detour for route {routeid}
+RouteDetouresIntent give me detour for {routeid}
+RouteDetouresIntent give me detours at bus {routeid}
+RouteDetouresIntent give me detours at route {routeid}
+RouteDetouresIntent give me detours at {routeid}
+RouteDetouresIntent give me detours for bus {routeid}
+RouteDetouresIntent give me detours for route {routeid}
+RouteDetouresIntent give me detours for {routeid}
+RouteDetouresIntent give me service detour at bus {routeid}
+RouteDetouresIntent give me service detour at route {routeid}
+RouteDetouresIntent give me service detour at {routeid}
+RouteDetouresIntent give me service detour for bus {routeid}
+RouteDetouresIntent give me service detour for route {routeid}
+RouteDetouresIntent give me service detour for {routeid}
+RouteDetouresIntent give me service detours at bus {routeid}
+RouteDetouresIntent give me service detours at route {routeid}
+RouteDetouresIntent give me service detours at {routeid}
+RouteDetouresIntent give me service detours for bus {routeid}
+RouteDetouresIntent give me service detours for route {routeid}
+RouteDetouresIntent give me service detours for {routeid}
+RouteDetouresIntent give me transit detour at bus {routeid}
+RouteDetouresIntent give me transit detour at route {routeid}
+RouteDetouresIntent give me transit detour at {routeid}
+RouteDetouresIntent give me transit detour for bus {routeid}
+RouteDetouresIntent give me transit detour for route {routeid}
+RouteDetouresIntent give me transit detour for {routeid}
+RouteDetouresIntent give me transit detours at bus {routeid}
+RouteDetouresIntent give me transit detours at route {routeid}
+RouteDetouresIntent give me transit detours at {routeid}
+RouteDetouresIntent give me transit detours for bus {routeid}
+RouteDetouresIntent give me transit detours for route {routeid}
+RouteDetouresIntent give me transit detours for {routeid}
+RouteDetouresIntent tell me detour at bus {routeid}
+RouteDetouresIntent tell me detour at route {routeid}
+RouteDetouresIntent tell me detour at {routeid}
+RouteDetouresIntent tell me detour for bus {routeid}
+RouteDetouresIntent tell me detour for route {routeid}
+RouteDetouresIntent tell me detour for {routeid}
+RouteDetouresIntent tell me detours at bus {routeid}
+RouteDetouresIntent tell me detours at route {routeid}
+RouteDetouresIntent tell me detours at {routeid}
+RouteDetouresIntent tell me detours for bus {routeid}
+RouteDetouresIntent tell me detours for route {routeid}
+RouteDetouresIntent tell me detours for {routeid}
+RouteDetouresIntent tell me service detour at bus {routeid}
+RouteDetouresIntent tell me service detour at route {routeid}
+RouteDetouresIntent tell me service detour at {routeid}
+RouteDetouresIntent tell me service detour for bus {routeid}
+RouteDetouresIntent tell me service detour for route {routeid}
+RouteDetouresIntent tell me service detour for {routeid}
+RouteDetouresIntent tell me service detours at bus {routeid}
+RouteDetouresIntent tell me service detours at route {routeid}
+RouteDetouresIntent tell me service detours at {routeid}
+RouteDetouresIntent tell me service detours for bus {routeid}
+RouteDetouresIntent tell me service detours for route {routeid}
+RouteDetouresIntent tell me service detours for {routeid}
+RouteDetouresIntent tell me transit detour at bus {routeid}
+RouteDetouresIntent tell me transit detour at route {routeid}
+RouteDetouresIntent tell me transit detour at {routeid}
+RouteDetouresIntent tell me transit detour for bus {routeid}
+RouteDetouresIntent tell me transit detour for route {routeid}
+RouteDetouresIntent tell me transit detour for {routeid}
+RouteDetouresIntent tell me transit detours at bus {routeid}
+RouteDetouresIntent tell me transit detours at route {routeid}
+RouteDetouresIntent tell me transit detours at {routeid}
+RouteDetouresIntent tell me transit detours for bus {routeid}
+RouteDetouresIntent tell me transit detours for route {routeid}
+RouteDetouresIntent tell me transit detours for {routeid}
+RouteDetouresIntent detour at bus {routeid}
+RouteDetouresIntent detour at route {routeid}
+RouteDetouresIntent detour at {routeid}
+RouteDetouresIntent detour for bus {routeid}
+RouteDetouresIntent detour for route {routeid}
+RouteDetouresIntent detour for {routeid}
+RouteDetouresIntent detours at bus {routeid}
+RouteDetouresIntent detours at route {routeid}
+RouteDetouresIntent detours at {routeid}
+RouteDetouresIntent detours for bus {routeid}
+RouteDetouresIntent detours for route {routeid}
+RouteDetouresIntent detours for {routeid}
+RouteDetouresIntent service detour at bus {routeid}
+RouteDetouresIntent service detour at route {routeid}
+RouteDetouresIntent service detour at {routeid}
+RouteDetouresIntent service detour for bus {routeid}
+RouteDetouresIntent service detour for route {routeid}
+RouteDetouresIntent service detour for {routeid}
+RouteDetouresIntent service detours at bus {routeid}
+RouteDetouresIntent service detours at route {routeid}
+RouteDetouresIntent service detours at {routeid}
+RouteDetouresIntent service detours for bus {routeid}
+RouteDetouresIntent service detours for route {routeid}
+RouteDetouresIntent service detours for {routeid}
+RouteDetouresIntent transit detour at bus {routeid}
+RouteDetouresIntent transit detour at route {routeid}
+RouteDetouresIntent transit detour at {routeid}
+RouteDetouresIntent transit detour for bus {routeid}
+RouteDetouresIntent transit detour for route {routeid}
+RouteDetouresIntent transit detour for {routeid}
+RouteDetouresIntent transit detours at bus {routeid}
+RouteDetouresIntent transit detours at route {routeid}
+RouteDetouresIntent transit detours at {routeid}
+RouteDetouresIntent transit detours for bus {routeid}
+RouteDetouresIntent transit detours for route {routeid}
+RouteDetouresIntent transit detours for {routeid}

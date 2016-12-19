@@ -1,0 +1,139 @@
+{
+    "intents":[
+        {
+            "intent" : "AMAZON.YesIntent"
+        },
+        {
+            "intent" : "AMAZON.NoIntent"
+        },
+        {
+            "intent" : "AMAZON.HelpIntent"
+        },
+        {
+            "intent" : "AMAZON.StopIntent"
+        },
+        {
+            "intent" : "AMAZON.CancelIntent"
+        },
+        {
+            "intent" : "AMAZON.StartOverIntent"
+        },
+        {
+            "intent" : "AMAZON.RepeatIntent"
+        },
+        {
+            "intent" : "AMAZON.NextIntent"
+        },
+        {
+            "intent" : "AMAZON.PreviousIntent"
+        },
+        {
+            "intent" : "ZipCodeSetupIntent",
+            "slots" : [
+                {
+                    "name" : "zipcode",
+                    "type" : "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent" : "SIdSetupIntent",
+            "slots" : [
+                {
+                    "name" : "stopid",
+                    "type" : "AMAZON.NUMBER"
+                },
+                {
+                    "name" : "city",
+                    "type" : "AMAZON.US_CITY"
+                },
+                {
+                    "name" : "state",
+                    "type" : "AMAZON.US_STATE"
+                },
+                {
+                    "name" : "station",
+                    "type" : "BART_STATION"
+                }
+            ]
+        },
+        {
+            "intent" : "GetGeocode"
+        },
+        {
+            "intent" : "ResetIntent"
+        },
+        {
+            "intent" : "HomeBriefingIntent"
+        },
+        {
+            "intent" : "HomeArrivalsIntent"
+        },
+        {
+            "intent" : "HomeAlertsIntent"
+        },
+        {
+            "intent" : "HomeSchedulesIntent"
+        },
+        {
+            "intent" : "HomeDelaysIntent"
+        },
+        {
+            "intent" : "HomeDetouresIntent"
+        },
+        {
+            "intent" : "StopBriefingIntent",
+            "slots" : [
+                {
+                    "name" : "stopid",
+                    "type" : "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent" : "StopArrivalsIntent",
+            "slots" : [
+                {
+                    "name" : "stopid",
+                    "type" : "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent" : "StopSchedulesIntent",
+            "slots" : [
+                {
+                    "name" : "stopid",
+                    "type" : "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent" : "StopAlertsIntent",
+            "slots" : [
+                {
+                    "name" : "stopid",
+                    "type" : "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent" : "StopDelaysIntent",
+            "slots" : [
+                {
+                    "name" : "stopid",
+                    "type" : "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent" : "RouteDetouresIntent",
+            "slots" : [
+                {
+                    "name" : "routeid",
+                    "type" : "AMAZON.NUMBER"
+                }
+            ]
+        }
+    ]
+}

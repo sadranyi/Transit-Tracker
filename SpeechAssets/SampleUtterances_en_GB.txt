@@ -1,0 +1,7 @@
+SetupIntent to set {zipcode} as my zipcode
+SetupIntent to change my zipcode to {zipcode}
+SetupIntent to change my zipcode to {zipcode}
+SetupIntent to use {zipcode} as my zipcode
+SetupIntent to update my zipcode with {zipcode}
+SetupIntent to modify my zipcode with {zipcode}
+SetupIntent to modify my zipcode as {zipcode}
